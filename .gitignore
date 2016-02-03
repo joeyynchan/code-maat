@@ -16,3 +16,6 @@ mytodo.txt
 *.clj#
 *.csv
 test_data.txt
+.classpath
+/bin
+.project
